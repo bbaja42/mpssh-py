@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/9/trunk/tests/r
+END
+exit 0 stdout-only singlehost nosort
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/tests/r/exit%200%20stdout-only%20singlehost%20nosort
+END
+exit 0 stderr stdout
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/tests/r/exit%200%20stderr%20stdout
+END
+ssh killed
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/9/trunk/tests/r/ssh%20killed
+END
+echo only header 2 procs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/tests/r/echo%20only%20header%202%20procs
+END
+echo sshopt default
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/tests/r/echo%20sshopt%20default
+END
+exit 111 stderr no-stdout opt-ignexit
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/tests/r/exit%20111%20stderr%20no-stdout%20opt-ignexit
+END
+echo only server output
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/tests/r/echo%20only%20server%20output
+END
+exit value 2
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/tests/r/exit%20value%202
+END
+echo only header
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/tests/r/echo%20only%20header
+END
+exec failed
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/tests/r/exec%20failed
+END
+exit 111 stderr no-stdout
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/tests/r/exit%20111%20stderr%20no-stdout
+END
+newline split 1
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/tests/r/newline%20split%201
+END
+newline split 2
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/tests/r/newline%20split%202
+END
+newline split 3
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/tests/r/newline%20split%203
+END
+newline split 4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/tests/r/newline%20split%204
+END
+exit 0 stderr-only singlehost nosort
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/tests/r/exit%200%20stderr-only%20singlehost%20nosort
+END
+exit value 255
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/tests/r/exit%20value%20255
+END
+exit 0 all empty nosort
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/tests/r/exit%200%20all%20empty%20nosort
+END
+ssh connection failures
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/tests/r/ssh%20connection%20failures
+END
+long text default
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/tests/r/long%20text%20default
+END
+echo sshopt custom
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/tests/r/echo%20sshopt%20custom
+END
+killed due to cpu limit
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/tests/r/killed%20due%20to%20cpu%20limit
+END
+long text maxlen40
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/tests/r/long%20text%20maxlen40
+END
+exit value 2 verbose
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/tests/r/exit%20value%202%20verbose
+END
+bad login user
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/tests/r/bad%20login%20user
+END
