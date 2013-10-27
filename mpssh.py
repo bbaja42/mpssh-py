@@ -35,7 +35,7 @@ def usage_and_parse_argv():
 	)
 
 	parser.add_argument('-f', '--file', help='name of the file with the list of hosts',
-		default=None, required=True, type=str)
+		default=None, required=True, type=file)
 	#parser.add_argument('-o', '--outdir', help='save the remote output in this directory',
 	#	default=None, required=False, type=str)
 	parser.add_argument('-d', '--delay', help='delay between each SSH fork',
@@ -259,7 +259,7 @@ if __name__ == '__main__':
 	host_queue = Queue()
 	max_host_len = 0
 	host_count = 0
-	for line in open(settings.file):
+	for line in settings.file:
 		host = line.strip()
 		if not len(host) or host[0] == '#':
 			continue # skip empty lines and comments
